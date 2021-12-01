@@ -52,4 +52,4 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebowenfeng&exclude_repo=smart-study)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebowenfeng&exclude_repo=smart-study,Unimelb-Helper)](https://github.com/anuraghazra/github-readme-stats)
