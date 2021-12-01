@@ -51,4 +51,5 @@
 - [Using web drivers to automate typing races in Python](https://www.bowenfeng.tech/projects/web%20automation/2019/09/18/typeracer-hack.html)
 <!-- BLOG-POST-LIST:END -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+### ⚡ GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebowenfeng)](https://github.com/anuraghazra/github-readme-stats)
