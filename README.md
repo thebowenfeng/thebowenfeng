@@ -44,11 +44,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using CNNs to autonomously play videogames](https://www.bowenfeng.tech/projects/ai/computer%20vision/2022/01/07/ai-gamer.html)
 - [Writing a custom malloc and free implementation using C](https://www.bowenfeng.tech/projects/dynamic%20memory/2021/10/15/custom-malloc.html)
 - [Generating Music using Recurrent Neural Networks](https://www.bowenfeng.tech/projects/ai/2021/09/29/musegen.html)
 - [Performing a mid-function trampoline hook using C++](https://www.bowenfeng.tech/projects/reverse%20engineering/2020/05/13/midfunction-hooking.html)
 - [Using Markov Chains to simulate human speech](https://www.bowenfeng.tech/projects/nlp/2020/01/17/markov-chatbot.html)
-- [Using web drivers to automate typing races in Python](https://www.bowenfeng.tech/projects/web%20automation/2019/09/18/typeracer-hack.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ GitHub Stats
