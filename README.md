@@ -6,7 +6,7 @@
 
 - 🔭 Check out this website I've developed: [Unimelb Subject Tree](https://unimelbtree.github.io/)
 - 🌱 I pursue projects in a wide variety of fields.
-- 👯 Currently learning: Webdev, AI, Program Hacking and Cybersecurity
+- 👯 Currently learning: Webdev, Web 3.0, AI and Program Hacking
 - 🥅 Check out my blog/website here: [Blog](https://bowenfeng.tech)
 
 ### Connect with me:
