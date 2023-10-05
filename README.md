@@ -1,13 +1,13 @@
 ### Hi there, I'm Bowen Feng
 
-[![Website](https://img.shields.io/website?label=bowenfeng.tech&style=for-the-badge&url=https%3A%2F%2Fbowenfeng.tech)](https://bowenfeng.tech)
+[![Website](https://img.shields.io/website?label=thebowenfeng.github.io&style=for-the-badge&url=https%3A%2F%2Fbowenfeng.tech)](https://bowenfeng.tech)
 
 ## I'm a University of Melbourne student currently studying Computer Science
 
 - 🔭 Check out this website I've developed: [Unimelb Subject Tree](https://unimelbtree.github.io/)
 - 🌱 I pursue projects in a wide variety of fields.
 - 👯 Currently learning: Webdev, Web 3.0, AI and Program Hacking
-- 🥅 Check out my blog/website here: [Blog](https://bowenfeng.tech)
+- 🥅 Check out my blog/website here: [Blog](https://thebowenfeng.github.io)
 
 ### Connect with me:
 
