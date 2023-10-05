@@ -1,6 +1,6 @@
 ### Hi there, I'm Bowen Feng
 
-[![Website](https://img.shields.io/website?label=thebowenfeng.github.io&style=for-the-badge&url=https%3A%2F%2Fbowenfeng.tech)](https://bowenfeng.tech)
+[![Website](https://img.shields.io/website?label=thebowenfeng.github.io&style=for-the-badge&url=https%3A%2F%2Fthebowenfeng.github.io)](https://thebowenfeng.github.io)
 
 ## I'm a University of Melbourne student currently studying Computer Science
 
