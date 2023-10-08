@@ -1,17 +1,17 @@
 ### Hi there, I'm Bowen Feng
 
-[![Website](https://img.shields.io/website?label=bowenfeng.xyz&style=for-the-badge&url=https%3A%2F%2Fbowenfeng.xyz)](https://thebowenfeng.xyz)
+[![Website](https://img.shields.io/website?label=blog.bowenfeng.xyz&style=for-the-badge&url=https%3A%2F%2Fblog.bowenfeng.xyz)](https://blog.bowenfeng.xyz)
 
 ## I'm a University of Melbourne student currently studying Computer Science
 
 - 🔭 Check out this website I've developed: [Unimelb Subject Tree](https://unimelbtree.github.io/)
 - 🌱 I pursue projects in a wide variety of fields.
 - 👯 Currently learning: Webdev, Web 3.0, AI and Program Hacking
-- 🥅 Check out my blog/website here: [Blog](https://bowenfeng.xyz)
+- 🥅 Check out my blog/website here: [Blog](https://blog.bowenfeng.xyz)
 
 ### Connect with me:
 
-[<img align="left" alt="https://bowenfeng.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://bowenfeng.xyz)
+[<img align="left" alt="https://bowenfeng.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://blog.bowenfeng.xyz)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/bowen-feng-a52758213/)
 
 <br />
