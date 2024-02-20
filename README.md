@@ -44,11 +44,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Loading encrypted shellcode at runtime - A CTF writeup](https://blog.bowenfeng.xyz/projects/reverse%20engineering/2023/09/09/shellcode-injection.html)
 - [Bypass code detection with polymorphic code engine](https://blog.bowenfeng.xyz/projects/reverse%20engineering/2022/07/26/polymorphic-engine.html)
 - [Decentralized peer-to-peer chatting using Python](https://blog.bowenfeng.xyz/projects/web3.0/2022/02/07/p2p-chat.html)
 - [Using CNNs to autonomously play videogames](https://blog.bowenfeng.xyz/projects/ai/computer%20vision/2022/01/07/ai-gamer.html)
 - [Writing a custom malloc and free implementation using C](https://blog.bowenfeng.xyz/projects/dynamic%20memory/2021/10/15/custom-malloc.html)
-- [Generating Music using Recurrent Neural Networks](https://blog.bowenfeng.xyz/projects/ai/2021/09/29/musegen.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ GitHub Stats
